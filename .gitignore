@@ -1,5 +1,6 @@
 # 'ignore' folders
 laptop-data-analysis-project/ignore/
+/ignore/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
